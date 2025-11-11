@@ -1,0 +1,17 @@
+D:\Github\LearningApp\LearningApp\LearningApp.Data\bin\Debug\net8.0\LearningApp.Data.deps.json
+D:\Github\LearningApp\LearningApp\LearningApp.Data\bin\Debug\net8.0\LearningApp.Data.runtimeconfig.json
+D:\Github\LearningApp\LearningApp\LearningApp.Data\bin\Debug\net8.0\LearningApp.Data.dll
+D:\Github\LearningApp\LearningApp\LearningApp.Data\bin\Debug\net8.0\LearningApp.Data.pdb
+D:\Github\LearningApp\LearningApp\LearningApp.Data\bin\Debug\net8.0\LearningApp.Core.dll
+D:\Github\LearningApp\LearningApp\LearningApp.Data\bin\Debug\net8.0\LearningApp.Core.pdb
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\LearningApp.Data.csproj.AssemblyReference.cache
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\LearningApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\LearningApp.Data.AssemblyInfoInputs.cache
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\LearningApp.Data.AssemblyInfo.cs
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\LearningApp.Data.csproj.CoreCompileInputs.cache
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\Learning.C2E5EFD1.Up2Date
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\LearningApp.Data.dll
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\refint\LearningApp.Data.dll
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\LearningApp.Data.pdb
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\LearningApp.Data.genruntimeconfig.cache
+D:\Github\LearningApp\LearningApp\LearningApp.Data\obj\Debug\net8.0\ref\LearningApp.Data.dll
