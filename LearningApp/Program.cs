@@ -1,4 +1,6 @@
+using LearningApp.Data;
 using LearningApp.Data.Entities;
+using LearningApp.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -14,9 +16,25 @@ builder.Services.AddDbContextPool<LearningAppDbContext>(options =>
 });
 
 builder.Services.AddControllers();
+
+// Configure Service DI here
+
+builder.Services.AddScoped<ICourseCategoryRepository, CourseCategoryRepository>();
+builder.Services.AddScoped<ICourseCategoryServices, CourseCategoryServices>();
+builder.Services.AddScoped<ICourseRepository, CourseRepository>();
+builder.Services.AddScoped<ICourseService, CourseService>();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.Cookie.SecurePolicy = CookieSecurePolicy.Always; // only send over HTTPS
+    options.Cookie.SameSite = SameSiteMode.Lax; // or None if cross-site
+});
+
+
 
 var app = builder.Build();
 

@@ -5243,11 +5243,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Data\\LearningApp.Data.csproj",
+      "projectUniqueName": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Data\\LearningApp.Data.csproj",
       "projectName": "LearningApp.Data",
-      "projectPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Data\\LearningApp.Data.csproj",
+      "projectPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Data\\LearningApp.Data.csproj",
       "packagesPath": "C:\\Users\\dpkk5\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Data\\obj\\",
+      "outputPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5268,8 +5268,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Core\\LearningApp.Core.csproj": {
-              "projectPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Core\\LearningApp.Core.csproj"
+            "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Core\\LearningApp.Core.csproj": {
+              "projectPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Core\\LearningApp.Core.csproj"
             }
           }
         }

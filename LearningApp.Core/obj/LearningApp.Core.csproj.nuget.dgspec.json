@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Core\\LearningApp.Core.csproj": {}
+    "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Core\\LearningApp.Core.csproj": {}
   },
   "projects": {
-    "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Core\\LearningApp.Core.csproj": {
+    "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Core\\LearningApp.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Core\\LearningApp.Core.csproj",
+        "projectUniqueName": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Core\\LearningApp.Core.csproj",
         "projectName": "LearningApp.Core",
-        "projectPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Core\\LearningApp.Core.csproj",
+        "projectPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Core\\LearningApp.Core.csproj",
         "packagesPath": "C:\\Users\\dpkk5\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Core\\obj\\",
+        "outputPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PuRfqUFMGJ0=",
+  "dgSpecHash": "QlgOkS8uXbw=",
   "success": true,
-  "projectFilePath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp\\LearningApp.csproj",
+  "projectFilePath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp\\LearningApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dpkk5\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\dpkk5\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

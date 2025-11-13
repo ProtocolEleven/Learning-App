@@ -9,6 +9,7 @@
       "LearningApp.Services/1.0.0": {
         "dependencies": {
           "LearningApp.Core": "1.0.0",
+          "LearningApp.Data": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.10",
           "Microsoft.EntityFrameworkCore.Design": "9.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
@@ -1097,6 +1098,21 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "LearningApp.Data/1.0.0": {
+        "dependencies": {
+          "LearningApp.Core": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.10",
+          "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",
+          "Swashbuckle.AspNetCore": "6.6.2"
+        },
+        "runtime": {
+          "LearningApp.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1702,6 +1718,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "LearningApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LearningApp.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

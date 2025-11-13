@@ -1118,6 +1118,7 @@
       "LearningApp.Services/1.0.0": {
         "dependencies": {
           "LearningApp.Core": "1.0.0",
+          "LearningApp.Data": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",

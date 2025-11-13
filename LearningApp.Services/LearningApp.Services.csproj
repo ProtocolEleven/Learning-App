@@ -19,6 +19,7 @@
 
 	<ItemGroup>
 	  <ProjectReference Include="..\LearningApp.Core\LearningApp.Core.csproj" />
+	  <ProjectReference Include="..\LearningApp.Data\LearningApp.Data.csproj" />
 	</ItemGroup>
 
 </Project>

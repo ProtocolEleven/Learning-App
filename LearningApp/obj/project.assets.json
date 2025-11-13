@@ -1728,6 +1728,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "LearningApp.Core": "1.0.0",
+          "LearningApp.Data": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.10",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.22.1",
@@ -5289,11 +5290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\LearningApp\\LearningApp\\LearningApp\\LearningApp.csproj",
+      "projectUniqueName": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp\\LearningApp.csproj",
       "projectName": "LearningApp",
-      "projectPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp\\LearningApp.csproj",
+      "projectPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp\\LearningApp.csproj",
       "packagesPath": "C:\\Users\\dpkk5\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp\\obj\\",
+      "outputPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5314,14 +5315,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Core\\LearningApp.Core.csproj": {
-              "projectPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Core\\LearningApp.Core.csproj"
+            "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Core\\LearningApp.Core.csproj": {
+              "projectPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Core\\LearningApp.Core.csproj"
             },
-            "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Data\\LearningApp.Data.csproj": {
-              "projectPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Data\\LearningApp.Data.csproj"
+            "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Data\\LearningApp.Data.csproj": {
+              "projectPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Data\\LearningApp.Data.csproj"
             },
-            "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Services\\LearningApp.Services.csproj": {
-              "projectPath": "D:\\Github\\LearningApp\\LearningApp\\LearningApp.Services\\LearningApp.Services.csproj"
+            "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Services\\LearningApp.Services.csproj": {
+              "projectPath": "D:\\Github\\LearningApp\\LearningApp\\Learning-App\\LearningApp.Services\\LearningApp.Services.csproj"
             }
           }
         }
